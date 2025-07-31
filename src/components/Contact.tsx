@@ -84,7 +84,7 @@ const Contact = () => {
                 <p className="text-lg font-medium mb-4">Howrah, West Bengal 711112</p>
                 <Button 
                   variant="outline"
-                  onClick={() => window.open(`https://maps.google.com/?q=412,Mohiary Rd,Ramrajatala,Howrah,West Bengal 711112`, '_blank')}
+                  onClick={() => window.open(`https://maps.app.goo.gl/XzokfeBHPvvDsJLJ8`, '_blank')}
                   className="w-full border-primary text-primary hover:bg-primary hover:text-white"
                 >
                   View on Maps
